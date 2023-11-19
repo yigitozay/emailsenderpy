@@ -1,0 +1,1 @@
+This Python script automates the process of sending HTML formatted emails using SMTP. It's designed to read an HTML template, fill in the necessary details, and send an email to a specified recipient.
